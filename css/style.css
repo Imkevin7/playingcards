@@ -1,0 +1,67 @@
+#wrap {
+    height:250px;
+    overflow:hidden;
+    background:white;
+}
+.first, .second, .three, .four, .five, .six, .seven, .eight {
+    font-size:1.7em;
+    height:50px;
+    position:relative;
+    padding:0px;
+    background:#fff;
+    color:red;
+}
+.first, .three {
+    color:black;
+}
+.second, .four, .six, .eight {
+    color:white;
+    top:50px;
+    background:#333;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-size:1.em;
+    padding-top:5px;
+}
+.ns {
+    display:none;
+}
+.button {
+    width:20%;
+    height:40px;
+    margin:auto;
+    cursor:pointer;
+    overflow:hidden;
+    text-align:center;
+    float:left;
+    margin-right:10px;
+    padding-top:20px;
+}
+span {
+    box-shadow:1px 0px 4px 1px #ddd;
+    padding: 6px;
+    border-radius:2px;
+    border:1px solid #ccc;
+}
+.hidden {
+    clear:both;
+    color:#efefef;
+    text-align:center;
+    font-size:5em;
+}
+.cc {
+    color:#eeefff;
+    text-shadow:0px 1px 1px #ccc;
+}
+.x {
+    font-size:.4em;
+    margin-top: -38px;
+    position:relative;
+    left:7px;
+}
+.xx {
+    font-size:.4em;
+    position:relative;
+    left:-9px;
+    margin: 15px;
+}
