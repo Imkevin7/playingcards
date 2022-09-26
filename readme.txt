@@ -3,4 +3,4 @@ Playing cards
 
 CSS cards
 
-![Cards](cards.png)
+![cards](cards.png)
