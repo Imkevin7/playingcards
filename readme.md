@@ -6,4 +6,3 @@ CSS cards
 
 <img src="https://github.com/Imkevin7/playingcards/blob/master/cards.png"
      alt="Cards" />
-<img src="/blob/master/cards.png" />
